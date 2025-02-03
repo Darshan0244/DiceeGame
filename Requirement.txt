@@ -1,0 +1,11 @@
+ Step 1 - Create an External Javascript File ✅
+
+ Step 2 - Add Dice Images ✅
+
+ Step 3 - Create a Random Number ✅
+
+ Step 4 - Change the <img> to a Random Dice ✅
+
+ Step 5 - Change both <img> Elements ✅
+
+ Step 6 - Change the Title to Display a Winner ✅
